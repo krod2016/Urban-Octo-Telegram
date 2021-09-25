@@ -6,7 +6,7 @@
 *From there, you will be able to discover what Horiseon has to offer. 
 
 ## Usage
-*Please click the link : file:///C:/Users/katri/Documents/Developer-Repository/Challenge-1/UrbanOctoTelegram/index.html
+*Please click the link : https://krod2016.github.io/UrbanOctoTelegram/
 *The website should look as followed: 
 [Horiseon]()
 
