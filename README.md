@@ -15,7 +15,7 @@
 ## Usage
 * Please click the link : https://krod2016.github.io/UrbanOctoTelegram/
 * The website should look as followed: 
-[Horiseon]()
+[Horiseon](assets/images/Horiseon.png)
 
 ## Contribution
 * Made by Katrina Rodriguez
