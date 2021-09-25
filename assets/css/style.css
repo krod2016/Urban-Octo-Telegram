@@ -28,6 +28,7 @@ body {
     color: #d9dcd6;
 }
 
+/*header tags start here*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -47,6 +48,7 @@ body {
     margin-left: 25px;
 }
 
+/*section tags start here*/
 a {
     color: #ffffff;
     text-decoration: none;
@@ -56,6 +58,7 @@ p {
     font-size: 16px;
 }
 
+/*picture tag*/
 .hero {
     height: 800px;
     width: 100%;
@@ -63,9 +66,9 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
-    flex-wrap: wrap;
 }
 
+/*section tag continues here*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -82,6 +85,7 @@ p {
     margin-left: 20px;
 }
 
+/*aside tags start here*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -195,6 +199,7 @@ p {
     font-size: 36px;
 }
 
+/*footer tags start here*/
 .footer {
     padding: 30px;
     clear: both;
